@@ -1,0 +1,8 @@
+# CodingCoffee  C/C++ GitPod Examples more courses : http://www.codingcoffee.org
+tasks:
+  - init: echo 'this is linux kernel image build example' # runs during prebuild
+    command: echo 'arm linux kernel build tutorial' && sudo apt update && pip install torch torchvision matplotlib
+# CodingCoffee  C/C++ GitPod Examples more courses : http://www.codingcoffee.org
+ports:
+  - port: 3000
+    onOpen: open-preview
