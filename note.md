@@ -2,15 +2,15 @@
 
 ## Tutorial reference 
 
-	1.  https://github.com/yunjey/pytorch-tutorial.git
+	1.  https://github.com/pytorch/tutorials;https://pytorch.org/tutorials/beginner/basics/intro.html;
 	
-	2.  https://pytorch.org/tutorials/;https://pytorch.org/tutorials/beginner/basics/intro.html
+	2.  https://pytorch.org/tutorials/;https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html;
 	
-	3.  https://pytorch.org/tutorials/intermediate/process_group_cpp_extension_tutorial.html?utm_source=whats_new_tutorials&utm_medium=cpp_ext  
+	3.  https://pytorch.org/docs/stable/cpp_extension.html  
 	
-	4.  https://pytorch.org/docs/stable/cpp_extension.html
+	4.  ;https://github.com/yunjey/pytorch-tutorial.git
 	
-	5.  https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
+	5.   https://github.com/yunjey/pytorch-tutorial.git;
 	
 	6.  https://www.tutorialspoint.com/pytorch/index.htm
 	
